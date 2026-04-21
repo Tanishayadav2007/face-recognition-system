@@ -96,6 +96,7 @@ This project was developed collaboratively as part of a team, where I played a k
 
 ## 📸 Demo
 
-![Face Recognition Output](Screenshot1.png)
+![Face Recognition Output](User.png)
+
 
 
