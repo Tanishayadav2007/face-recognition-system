@@ -41,7 +41,7 @@ Install the required libraries:
 
 ```bash
 pip install opencv-contrib-python numpy
-
+```
 ---
 ## ▶️ How to Run
 
@@ -96,4 +96,7 @@ This project was developed collaboratively as part of a team, where I played a k
 
 ## 📸 Demo
 
+![Face Recognition Output](images/screenshot1.png)
+
+![Face Recognition Output](images/screenshot2.png)
 
