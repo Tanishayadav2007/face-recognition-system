@@ -96,7 +96,6 @@ This project was developed collaboratively as part of a team, where I played a k
 
 ## 📸 Demo
 
-![Detection](Screenshot1.png)
+!(Screenshot1.png)
 
-![Recognition](Screenshot2.png)
 
